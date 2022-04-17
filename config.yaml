@@ -1,7 +1,7 @@
 baseURL: https://taupe-gecko-1496c3.netlify.app/
 languageCode: en-GB
 title: Jordi Mon's personal blog
-theme: hugo-PaperMod
+theme: PaperMod
 disableKinds:
   - section
   - taxonomy
