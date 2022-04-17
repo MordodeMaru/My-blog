@@ -1,3 +1,4 @@
 baseURL = 'https://blog.mon.company'
 languageCode = 'en-uk'
 title = 'Jordi Mon Companys blog'
+theme = 'PaperMod'
