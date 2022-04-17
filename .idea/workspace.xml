@@ -7,7 +7,6 @@
     <list default="true" id="1840eca4-43a7-419b-95e5-fa614aa91618" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1650052924648" duration="1749000" />
       <workItem from="1650212718623" duration="774000" />
       <workItem from="1650213722197" duration="639000" />
-      <workItem from="1650214558040" duration="124000" />
+      <workItem from="1650214558040" duration="442000" />
     </task>
     <servers />
   </component>
